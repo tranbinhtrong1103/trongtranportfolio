@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	margin: 0;
+	font-family:sans-serif;
+	font-size: 14px;
+	line-height: 1.5rem;
+	color:#2D2C2C;
+	
+}
+header
+{
+	padding: 10px 0;
+	background: #ddd;
+	
+}
+section
+{
+	min-height:100vh;
+}
+#hero .ss-icon a:hover
+{
+color: bisque;
+text-decoration: none;
+margin: 5px;	
+}
+.center-parent {
+  text-aligfont-family: center;
+}
+.font-tile
+{ 
+
+  font-family: "Playball", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.font-fancy
+{
+ font-family: "FONT/Rosie Brown Serif Demo.otf"
+	
+}
+.text-blue
+{ 
+ color: #52fff4 ;
+}
+.font-abc
+{
+	font-family :"FONT/Griffiths.otf"
+}
+
+
+
+	
+	
